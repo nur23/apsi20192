@@ -1,0 +1,31 @@
+body{
+    background: #7386D5;
+}
+.form-login{
+    margin: 0 auto;
+    margin-top: 13%;
+}
+.outter-form-login {
+    padding: 20px;
+    background: #EEEEEE;
+    position: relative;
+    border-radius: 5px;
+}
+
+.inner-login .form-control {
+    background: #D3D3D3;
+}
+h3.title-login {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.btn-custom-orange {
+    background: #FFAE58;
+    color: #fff;
+}
+
+.alert-custom {
+    background: #F29A00;
+    color: #fff;
+}
